@@ -1,0 +1,6 @@
+[book]
+authors = ["杨哲涵"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "工物科协 Rust 培训"
