@@ -18,6 +18,7 @@ Rust 诞生之后得到了广泛的关注和业界的厚爱, 其使命可以说�
     ```
 - [starship](https://github.com/starship/starship) 美观的终端插件, 非常快, 适配多种终端
 - [mdbook](https://github.com/rust-lang/mdBook) 用 Markdown 生成你现在看到的页面
+- [ruff](https://github.com/astral-sh/ruff) 又快又好的 Python 格式化工具
 
 ## 为什么是 Rust
 
